@@ -2,144 +2,144 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://GobiWave.github.io/</loc>
+    <loc>https://gobiwave.github.io/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://GobiWave.github.io/en/"
+                href="https://gobiwave.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://GobiWave.github.io/ar/"
+                href="https://gobiwave.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://GobiWave.github.io/"
+                href="https://gobiwave.github.io/"
                 />
   </url><url>
-    <loc>https://GobiWave.github.io/categories/</loc>
+    <loc>https://gobiwave.github.io/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://GobiWave.github.io/en/categories/"
+                href="https://gobiwave.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://GobiWave.github.io/ar/categories/"
+                href="https://gobiwave.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://GobiWave.github.io/categories/"
+                href="https://gobiwave.github.io/categories/"
                 />
   </url><url>
-    <loc>https://GobiWave.github.io/p/test-chinese/</loc>
+    <loc>https://gobiwave.github.io/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/post/</loc>
+    <loc>https://gobiwave.github.io/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://GobiWave.github.io/ar/post/"
+                href="https://gobiwave.github.io/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://GobiWave.github.io/post/"
+                href="https://gobiwave.github.io/post/"
                 />
   </url><url>
-    <loc>https://GobiWave.github.io/categories/test/</loc>
+    <loc>https://gobiwave.github.io/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://gobiwave.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/archives/</loc>
+    <loc>https://gobiwave.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/page/</loc>
+    <loc>https://gobiwave.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/tags/css/</loc>
+    <loc>https://gobiwave.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/tags/html/</loc>
+    <loc>https://gobiwave.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/tags/markdown/</loc>
+    <loc>https://gobiwave.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/p/markdown-syntax-guide/</loc>
+    <loc>https://gobiwave.github.io/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/categories/syntax/</loc>
+    <loc>https://gobiwave.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/tags/</loc>
+    <loc>https://gobiwave.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://GobiWave.github.io/en/tags/"
+                href="https://gobiwave.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://GobiWave.github.io/ar/tags/"
+                href="https://gobiwave.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://GobiWave.github.io/tags/"
+                href="https://gobiwave.github.io/tags/"
                 />
   </url><url>
-    <loc>https://GobiWave.github.io/tags/themes/</loc>
+    <loc>https://gobiwave.github.io/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/categories/themes/</loc>
+    <loc>https://gobiwave.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/p/placeholder-text/</loc>
+    <loc>https://gobiwave.github.io/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://GobiWave.github.io/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
+                href="https://gobiwave.github.io/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://GobiWave.github.io/p/placeholder-text/"
+                href="https://gobiwave.github.io/p/placeholder-text/"
                 />
   </url><url>
-    <loc>https://GobiWave.github.io/tags/tag-with-whitespaces/</loc>
+    <loc>https://gobiwave.github.io/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/categories/test-with-whitespaces/</loc>
+    <loc>https://gobiwave.github.io/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/tags/text/</loc>
+    <loc>https://gobiwave.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/p/math-typesetting/</loc>
+    <loc>https://gobiwave.github.io/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/tags/emoji/</loc>
+    <loc>https://gobiwave.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/p/emoji-support/</loc>
+    <loc>https://gobiwave.github.io/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://GobiWave.github.io/links/</loc>
+    <loc>https://gobiwave.github.io/links/</loc>
   </url><url>
-    <loc>https://GobiWave.github.io/search/</loc>
+    <loc>https://gobiwave.github.io/search/</loc>
   </url><url>
-    <loc>https://GobiWave.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://gobiwave.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>

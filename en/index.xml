@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Example Site</title>
-        <link>https://GobiWave.github.io/en/</link>
+        <link>https://gobiwave.github.io/en/</link>
         <description>Recent content on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>YearnGrey</copyright><atom:link href="https://GobiWave.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>YearnGrey</copyright><atom:link href="https://gobiwave.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

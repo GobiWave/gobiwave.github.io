@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://GobiWave.github.io/en/categories/</loc>
+    <loc>https://gobiwave.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://GobiWave.github.io/categories/"
+                href="https://gobiwave.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://GobiWave.github.io/ar/categories/"
+                href="https://gobiwave.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://GobiWave.github.io/en/categories/"
+                href="https://gobiwave.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://GobiWave.github.io/en/</loc>
+    <loc>https://gobiwave.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://GobiWave.github.io/"
+                href="https://gobiwave.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://GobiWave.github.io/ar/"
+                href="https://gobiwave.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://GobiWave.github.io/en/"
+                href="https://gobiwave.github.io/en/"
                 />
   </url><url>
-    <loc>https://GobiWave.github.io/en/tags/</loc>
+    <loc>https://gobiwave.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://GobiWave.github.io/tags/"
+                href="https://gobiwave.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://GobiWave.github.io/ar/tags/"
+                href="https://gobiwave.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://GobiWave.github.io/en/tags/"
+                href="https://gobiwave.github.io/en/tags/"
                 />
   </url>
 </urlset>
