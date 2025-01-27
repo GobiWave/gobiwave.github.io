@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gobiwave.github.io/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://gobiwave.github.io/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,11 +38,8 @@
                 href="https://gobiwave.github.io/categories/"
                 />
   </url><url>
-    <loc>https://gobiwave.github.io/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gobiwave.github.io/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -54,16 +51,49 @@
                 href="https://gobiwave.github.io/post/"
                 />
   </url><url>
+    <loc>https://gobiwave.github.io/tags/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gobiwave.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://gobiwave.github.io/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://gobiwave.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://gobiwave.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gobiwave.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gobiwave.github.io/p/the-curse-of-author/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gobiwave.github.io/categories/%E6%9C%9B%E5%B7%9D%E7%A7%8B%E6%9E%AF-memories/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gobiwave.github.io/p/test-chinese/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gobiwave.github.io/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gobiwave.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gobiwave.github.io/archives/</loc>
+    <loc>https://gobiwave.github.io/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gobiwave.github.io/page/</loc>
+    <loc>https://gobiwave.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gobiwave.github.io/tags/css/</loc>
@@ -80,24 +110,6 @@
   </url><url>
     <loc>https://gobiwave.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gobiwave.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gobiwave.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://gobiwave.github.io/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gobiwave.github.io/tags/"
-                />
   </url><url>
     <loc>https://gobiwave.github.io/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -136,10 +148,10 @@
     <loc>https://gobiwave.github.io/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gobiwave.github.io/links/</loc>
+    <loc>https://gobiwave.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
     <loc>https://gobiwave.github.io/search/</loc>
   </url><url>
-    <loc>https://gobiwave.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://gobiwave.github.io/%E5%8F%8B%E9%93%BE/</loc>
   </url>
 </urlset>

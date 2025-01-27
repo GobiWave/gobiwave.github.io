@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="我的第一篇博客">
+<title>创作的诅咒</title>
+
+<link rel='canonical' href='https://gobiwave.github.io/p/the-curse-of-author/'>
+
+<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="创作的诅咒">
+<meta property='og:description' content="我的第一篇博客">
+<meta property='og:url' content='https://gobiwave.github.io/p/the-curse-of-author/'>
+<meta property='og:site_name' content='LUX CLUB'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='博客搭建' /><meta property='article:published_time' content='2025-01-25T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-01-25T00:00:00&#43;00:00'/><meta property='og:image' content='https://gobiwave.github.io/p/the-curse-of-author/mirrorscreenshot.png' />
+<meta name="twitter:title" content="创作的诅咒">
+<meta name="twitter:description" content="我的第一篇博客"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://gobiwave.github.io/p/the-curse-of-author/mirrorscreenshot.png' />
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu_1425821b5dfa21e8.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">LUX CLUB</a></h1>
+            <h2 class="site-description">要不，我去了 \ 我便化作萤火虫 \ 以我的一生，为你点盏灯</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://www.douban.com/people/181246205'
+                        target="_blank"
+                        title="1Douban"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-douban"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 20h16" /><path d="M5 4h14" /><path d="M8 8h8a2 2 0 0 1 2 2v2a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2v-2a2 2 0 0 1 2 -2z" /><path d="M16 14l-2 6" /><path d="M8 17l1 3" /></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://space.bilibili.com/434342491'
+                        target="_blank"
+                        title="2Bilibili"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-bilibili"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a4 4 0 0 1 4 -4h10a4 4 0 0 1 4 4v6a4 4 0 0 1 -4 4h-10a4 4 0 0 1 -4 -4v-6z" /><path d="M8 3l2 3" /><path d="M16 3l-2 3" /><path d="M9 13v-2" /><path d="M15 11v2" /></svg>
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/%E5%85%B3%E4%BA%8E/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>归档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/%E5%8F%8B%E9%93%BE/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>友链</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    
+                        <li id="i18n-switch">  
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                                
+                                    <option value="https://gobiwave.github.io/en/" >English</option>
+                                
+                                    <option value="https://gobiwave.github.io/" selected>中文</option>
+                                
+                                    <option value="https://gobiwave.github.io/ar/" >عربي</option>
+                                
+                            </select>
+                        </li>
+                    
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#创作的诅咒">创作的诅咒</a></li>
+    <li><a href="#思故在">思，故在</a></li>
+    <li><a href="#选择博客">选择博客</a>
+      <ol>
+        <li><a href="#需要的技能">需要的技能：</a></li>
+        <li><a href="#鸣谢">鸣谢</a></li>
+      </ol>
+    </li>
+    <li><a href="#想说的话">想说的话</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/p/the-curse-of-author/">
+                <img src="/p/the-curse-of-author/mirrorscreenshot_hu_7fba84914777e9.png"
+                        srcset="/p/the-curse-of-author/mirrorscreenshot_hu_7fba84914777e9.png 800w, /p/the-curse-of-author/mirrorscreenshot_hu_2ce47aa39a11d037.png 1600w"
+                        width="800" 
+                        height="495" 
+                        loading="lazy"
+                        alt="Featured image of post 创作的诅咒" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/" >
+                博客相关
+            </a>
+        
+            <a href="/categories/%E6%9C%9B%E5%B7%9D%E7%A7%8B%E6%9E%AF-memories/" style="background-color: #2a9d8f; color: #fff;">
+                望川秋枯-Memories
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/the-curse-of-author/">创作的诅咒</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            我的第一篇博客
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Jan 25, 2025</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    阅读时长: 3 分钟
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h2 id="创作的诅咒">创作的诅咒
+</h2><p>创作欲困扰我很久了。</p>
+<p>初识互联网媒介，博客时代正盛，社交软件纷纷推出类似功能。及至流媒体浪潮将大众媒介更新，我受到启发，尝试视频创作。再后来，看到许多人通过创作变现，我又开了公众号，想试着以此谋生。此后，我在不同媒介之间跳跃，也打开了潘多拉盒子。我不再重视将想法付诸实践，理解力陷入了长久的衰弱。</p>
+<p>《镜子》(The Mirror, 1975）的开场是一段医学纪实。在潜意识疗法下，口吃患者重获正常说话的能力。这段画面向我提出了质疑：<strong>如果一个口吃的人能得到治愈，这是否代表了，所有人的表达欲能被恰当地承载？</strong></p>
+<p>在搞清楚这个问题前，我停止表达自己不成熟的观点。然后效仿古人，过了一段精神上的“隐居生活”。这段日子是孤独受挫的，因为我确认了自己的才能上的“口吃”，这才是让我难以更进一步表达和创作的原因，而从来不是媒介的问题。</p>
+<p>那么自然而然，检视起过去的作品，全是些闭门造车，自娱自乐的产物。原来，我是为了收获外界关注才开始创作的吗？那么，我还能自诩为作者么？这令我失望极了。</p>
+<p>自食禁果以来，表达欲和性欲就成了与生俱来的性相，并注定欲求不满，文明在此之上化为欲望的进食器官。所谓“创作的诅咒”即是根植于这种本能，一如《镜子》中的情形——口吃者从生理层面渴望表达，治疗师则为其改造了媒介。</p>
+<h2 id="思故在">思，故在
+</h2><p>对个体来说，表达与存在是密不可分的。所以笛卡尔说：“<strong>我思故我在。</strong>”同样的，色情行业消失的那一天，人类文明也将终结。</p>
+<p>《人间词话》谈论到诗艺的“有我之境”和“无我之境”。从更广的层面来理解，“创作”和“表达”显然不能一概而论。</p>
+<p>我开始写博客，不仅是对媒介的再次探索，更是想停止自渎式的创作。从严格意义上讲，表达更符合一种情感宣泄（<em>catharisis</em>），而创作的要义在于控制个人表达。不妨修正笛卡尔的箴言，剔除“我”，于是有了“<strong>思，故在</strong>”。</p>
+<h2 id="选择博客">选择博客
+</h2><p>冰冻三尺，非一日之寒。决定搭博客前，我做许多调研工作，不在话下。总之，我更倾向于严肃创作，而文字的历史比影像更悠久，这是我选择博客的原因。</p>
+<p>搭建博客的过程历时6天近12个小时，过程克服了各种问题（没有编程经历，用过最复杂的软件是excel和obsidian）</p>
+<p>博客的优势是自由。但作为一种表达的工具，我并不推崇过于折腾。</p>
+<p>以下是个人摸索的经验，可能有帮助</p>
+<h3 id="需要的技能">需要的技能：
+</h3><ul>
+<li>会科学上网</li>
+<li>软件安装，文件管理</li>
+<li>Markdown语法（最简单的）</li>
+<li>通过搜索和咨询debug</li>
+</ul>
+<h3 id="鸣谢">鸣谢
+</h3><p>感谢stack作者的模板</p>
+<p>​	<a class="link" href="https://stack.jimmycai.com/"  target="_blank" rel="noopener"
+    >Stack | Card-style Hugo theme designed for bloggers</a></p>
+<p>感谢以下几位博主，没有这些帖子，我的愿望不可能成为现实。</p>
+<ul>
+<li>
+<p>很简明的入门教程，看了后认识到搭博客并没有想象中困难。</p>
+<ul>
+<li><a class="link" href="https://jinspr.com/posts/2_a_beginners_guide_to_hugo_blog_deployment_part_1_main_part/"  target="_blank" rel="noopener"
+    >24k纯小白Hugo+Github博客部署教程（一）博客主体 | Jules in Spring</a></li>
+</ul>
+</li>
+<li>
+<p>如果想用Hugo+Stack主题+GithubPage搭建博客，这个是讲的最详细的免费视频教程。</p>
+<ul>
+<li><a class="link" href="https://www.bilibili.com/video/BV1bovfeaEtQ/"  target="_blank" rel="noopener"
+    >【雷】Hugo + Github免费搭建博客，并实现自动化部署_哔哩哔哩_bilibili</a></li>
+</ul>
+</li>
+<li>
+<p>搭配看这篇文章，理解步骤</p>
+<ul>
+<li><a class="link" href="https://blog.csdn.net/whale_cat/article/details/144657394"  target="_blank" rel="noopener"
+    >10分钟学会免费搭建个人博客（Hugo框架 + stack主题）-CSDN博客</a></li>
+</ul>
+</li>
+<li>
+<p>这位20年博主的经验之谈：关于为啥用Hugo+GithubPage，而不是其它方式</p>
+<ul>
+<li><a class="link" href="https://blog.douchi.space/choose-blog-tool/#gsc.tab=0"  target="_blank" rel="noopener"
+    >又双叒叕一篇小白个人博客选什么工具或平台 | 椒盐豆豉</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="想说的话">想说的话
+</h2><p>就在前段时间发生了一件非常遗憾的事情，导演 David Lynch 与世长辞。他的电影总是瑰丽优美，令人着迷，同时也晦涩曲折。林奇拒绝对他的作品做出官方解释，而这总能促使观众接连不断地挖掘内涵。</p>
+<p>如果一切都明明白白，就没有探索和交流的必要了。</p>
+<p>因此，我不想过多介绍个人情况，或者 LUX CLUB 所致力的内容。不过以此为契机，我想一些努力方向是我确定的：</p>
+<ul>
+<li>深入且严肃的创作</li>
+<li>非暴力交流形成的对话关系</li>
+<li>勇敢的姿态，自由的形式</li>
+<li>共享互助的理念</li>
+</ul>
+<p><img src="/p/the-curse-of-author/Screen2025-01-26_16-29-19.png"
+	width="2302"
+	height="1600"
+	srcset="/p/the-curse-of-author/Screen2025-01-26_16-29-19_hu_64697b3135cf8fae.png 480w, /p/the-curse-of-author/Screen2025-01-26_16-29-19_hu_5227f879eada4514.png 1024w"
+	loading="lazy"
+	
+		alt="Screen2025-01-26_16-29-19"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="143"
+		data-flex-basis="345px"
+	
+></p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/">博客搭建</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+     
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hugo-theme-stack" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2025 戈壁之澜
+    </section>
+    
+    <section class="powerby">
+        使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
+        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.29.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
