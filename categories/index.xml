@@ -8,12 +8,12 @@
         <language>zh-cn</language>
         <copyright>戈壁之澜</copyright>
         <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://gobiwave.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>博客相关</title>
-        <link>https://gobiwave.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/</link>
+        <title>博客搭建-BlogTech</title>
+        <link>https://gobiwave.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-blogtech/</link>
         <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://gobiwave.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/</guid>
-        <description></description>
+        <guid>https://gobiwave.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-blogtech/</guid>
+        <description>&lt;img src="https://gobiwave.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-blogtech/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 博客搭建-BlogTech" /&gt;</description>
         </item>
         <item>
         <title>望川秋枯-Memories</title>
@@ -24,12 +24,20 @@
         <description>&lt;img src="https://gobiwave.github.io/categories/%E6%9C%9B%E5%B7%9D%E7%A7%8B%E6%9E%AF-memories/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 望川秋枯-Memories" /&gt;</description>
         </item>
         <item>
+        <title>行万里路-Gallery</title>
+        <link>https://gobiwave.github.io/categories/%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF-gallery/</link>
+        <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://gobiwave.github.io/categories/%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF-gallery/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>https://gobiwave.github.io/categories/test/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
         <guid>https://gobiwave.github.io/categories/test/</guid>
-        <description>&lt;img src="https://gobiwave.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <description></description>
         </item>
         <item>
         <title>测试</title>
@@ -40,28 +48,20 @@
         <description></description>
         </item>
         <item>
-        <title>Syntax</title>
-        <link>https://gobiwave.github.io/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>叼虫集-Artwork</title>
+        <link>https://gobiwave.github.io/categories/%E5%8F%BC%E8%99%AB%E9%9B%86-artwork/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://gobiwave.github.io/categories/syntax/</guid>
-        <description></description>
+        <guid>https://gobiwave.github.io/categories/%E5%8F%BC%E8%99%AB%E9%9B%86-artwork/</guid>
+        <description>&lt;img src="https://gobiwave.github.io/categories/%E5%8F%BC%E8%99%AB%E9%9B%86-artwork/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 叼虫集-Artwork" /&gt;</description>
         </item>
         <item>
-        <title>Themes</title>
-        <link>https://gobiwave.github.io/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>万里路-Gallery</title>
+        <link>https://gobiwave.github.io/categories/%E4%B8%87%E9%87%8C%E8%B7%AF-gallery/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://gobiwave.github.io/categories/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Test With Whitespaces</title>
-        <link>https://gobiwave.github.io/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://gobiwave.github.io/categories/test-with-whitespaces/</guid>
-        <description></description>
+        <guid>https://gobiwave.github.io/categories/%E4%B8%87%E9%87%8C%E8%B7%AF-gallery/</guid>
+        <description>&lt;img src="https://gobiwave.github.io/categories/%E4%B8%87%E9%87%8C%E8%B7%AF-gallery/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 万里路-Gallery" /&gt;</description>
         </item>
         
     </channel>
